@@ -1,0 +1,14 @@
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\bin\Debug\net8.0\TcpLesson2.exe
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\bin\Debug\net8.0\TcpLesson2.deps.json
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\bin\Debug\net8.0\TcpLesson2.runtimeconfig.json
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\bin\Debug\net8.0\TcpLesson2.dll
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\bin\Debug\net8.0\TcpLesson2.pdb
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.AssemblyInfo.cs
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.dll
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\refint\TcpLesson2.dll
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.pdb
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\TcpLesson2.genruntimeconfig.cache
+C:\Users\Legion\source\repos\TcpLesson2\TcpLesson2\obj\Debug\net8.0\ref\TcpLesson2.dll
